@@ -1,4 +1,4 @@
-# Software_report_web
+# Software_Report_web
 
 課題用に作成したミニゲームのWebGLビルド
 
