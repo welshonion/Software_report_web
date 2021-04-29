@@ -4,7 +4,7 @@
 
 ## 説明
 
-- タイトル：Software_report
+- タイトル：Software_Report
 - ジャンル：2Dシューティング
 - 制作：2020年8月
 - Unityバージョン：2019.4.2f1
